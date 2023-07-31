@@ -1,1 +1,1 @@
-console.log("legends never fear")
+console.log("legends never fear!")
